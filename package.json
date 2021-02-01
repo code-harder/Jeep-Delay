@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/code-harder/Jeep-Delay.git"
   },
-  "keywords": [],
+  "keywords": ["delay", "js", "Jeep", "JeepDelay"],
   "author": "",
   "license": "ISC",
   "bugs": {
